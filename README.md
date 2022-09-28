@@ -1,2 +1,3 @@
-# Gerenciador de Armarios
- Gerenciador de Armários
+# Gerenciador de Armários
+
+Programa que realiza o gerenciamento de armários.
